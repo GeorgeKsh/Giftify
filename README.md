@@ -63,7 +63,7 @@ Add AI-based gift suggestions.
 
 👨‍💻 Developed By
 
-Ankit Kumar
+George Ksh
 Gift Recommendation Website Project
 
 📬 Contact
